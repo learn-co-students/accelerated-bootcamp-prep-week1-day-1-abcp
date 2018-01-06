@@ -1,13 +1,13 @@
-function outerFunction() {
-  var innerVariable = "I'm sort of a secret.";
-
-  return function innerFunction() {
-    var inaccessible = "Nothing can touch me.";
+function parent() {
+  var innerVariable = "Go to your room!";
+  console.log(inaccessible)
+  return function childe() {
+    var inaccessible = "**sneaks out the bedroom window**";
     return innerVariable;
   }
 }
 
-var outerScope = outerFunction;
+var outerScope = parent;
 
 var innerScope = outerScope();
 

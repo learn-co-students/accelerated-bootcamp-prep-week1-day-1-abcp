@@ -1,4 +1,6 @@
-var species = "dog";
+function setSpeciesVariable() {
+  var species = "dog";
+}
 
 function dogInfo(){
   name = "Fido";
@@ -6,13 +8,12 @@ function dogInfo(){
   console.log("Name is " + name);
 }
 
+setSpeciesVariable();
 dogInfo();
 
-console.log(species);
-console.log(name);
-
-
-species = "cat"
+function setSpeciesVariable() {
+  species = "cat"
+}
 
 function catInfo() {
   var name = "Felix"
@@ -22,8 +23,6 @@ function catInfo() {
   console.log("Mood is " + mood)
 }
 
+setSpeciesVariable();
 catInfo();
 
-console.log(species);
-console.log(name);
-console.log(mood);
