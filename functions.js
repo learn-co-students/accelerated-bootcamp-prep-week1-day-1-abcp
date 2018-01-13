@@ -10,9 +10,9 @@ function NameofFunction() {
 }
 
 function addNumbers(num1, num2, num3, num4) {
-  num1 + num2 + num3 + num4
+  console.log("The sum is " + (num1 + num2 + num3 + num4))
 }
 
 
-addNumbers()
+addNumbers(1,2,3,4)
 
