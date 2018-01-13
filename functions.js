@@ -9,10 +9,10 @@ function NameofFunction() {
   // body of function
 }
 
-function addNumbers(num1, num2, num3, num4) {
-  num1 + num2 + num3 + num4
+function addNumbers (num1, num2, num3, num4) {
+  console.log (num1 + num2 + num3 + num4)
 }
 
 
-addNumbers()
+  return addNumbers(1,2,3,4);
 
