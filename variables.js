@@ -1,8 +1,8 @@
 name = "Beyonce";
 console.log(name);
 
-var personality = "awesome"
-console.log(personality)
+var personality = "relaxed"
+console.log(relaxed)
 //
 
 personality = "fabulous";
