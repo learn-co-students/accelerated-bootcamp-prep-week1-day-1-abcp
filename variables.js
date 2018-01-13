@@ -1,12 +1,12 @@
 name = "Beyonce";
 console.log(name);
 
-var personality = "wonderful"
-console.log(personality)
+var character = "wonderful"
+console.log(character)
 //
 
-personality = "fabulous";
-console.log(personality);
+character = "fabulous";
+console.log(character);
 
 // Your Turn!
 // change the value of the `personality` variable to something that describes you
