@@ -1,4 +1,4 @@
-function tellJoke() {
+//////////function tellJoke() {
   console.log("How do you make 'Seven' even?\nYou take away the 'S'")
 }
 
