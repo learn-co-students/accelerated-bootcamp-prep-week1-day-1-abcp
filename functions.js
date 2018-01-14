@@ -5,7 +5,7 @@ function tellJoke() {
 tellJoke();
 
 
-function NameofFunction() {
+function NameofFunction()) {
   // body of function
 }
 
@@ -13,6 +13,5 @@ function addNumbers(num1, num2, num3, num4) {
   num1 + num2 + num3 + num4
 }
 
-
+NameofFunction(tellJoke)
 addNumbers()
-
