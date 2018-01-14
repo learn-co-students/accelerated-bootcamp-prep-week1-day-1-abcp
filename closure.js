@@ -14,3 +14,4 @@ var innerScope = outerScope();
 innerScope();
 
 
+//followed this during lecture but didn't push to GitHub
