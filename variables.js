@@ -12,4 +12,5 @@ console.log(personality);
 // change the value of the `personality` variable to something that describes you
 // and console.log the new value
 
-
+var personality = "tired"
+console.log(personality)
