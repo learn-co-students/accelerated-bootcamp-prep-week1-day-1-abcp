@@ -12,15 +12,15 @@ setSpeciesVariable();
 dogInfo();
 
 function setSpeciesVariable() {
-  species = "cat"
+  species = "cat";
 }
 
 function catInfo() {
-  var name = "Felix"
-  var mood = "sleepy"
+  var name = "Felix";
+  var mood = "sleepy";
   console.log("Species is " + species);
   console.log("Name is " + name);
-  console.log("Mood is " + mood)
+  console.log("Mood is " + mood);
 }
 
 setSpeciesVariable();
