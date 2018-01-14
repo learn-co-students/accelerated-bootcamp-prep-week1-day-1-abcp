@@ -25,4 +25,3 @@ function catInfo() {
 
 setSpeciesVariable();
 catInfo();
-
