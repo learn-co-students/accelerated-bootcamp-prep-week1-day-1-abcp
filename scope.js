@@ -11,6 +11,10 @@ function dogInfo(){
 setSpeciesVariable();
 dogInfo();
 
+Output:
+Species is species
+Name is Fido
+
 function setSpeciesVariable() {
   species = "cat"
 }
@@ -22,7 +26,10 @@ function catInfo() {
   console.log("Name is " + name);
   console.log("Mood is " + mood)
 }
-
 setSpeciesVariable();
 catInfo();
 
+Output:
+Species is cat
+Name is Felix
+Mood is sleepy
