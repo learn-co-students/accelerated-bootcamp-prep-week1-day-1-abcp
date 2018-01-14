@@ -20,7 +20,7 @@ function catInfo() {
   var mood = "sleepy"
   console.log("Species is " + species);
   console.log("Name is " + name);
-  console.log("Mood is " + mood)
+  console.log("Mood is " + mood);
 }
 
 setSpeciesVariable();
