@@ -1,4 +1,4 @@
-# Week 1, Day 1: In Class
+ # Week 1, Day 1: In Class
 
 In this repo, you'll find the lecture notes and in-class exercises for week 2, day 1 of the bootcamp prep course.
 
