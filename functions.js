@@ -9,10 +9,13 @@ function NameofFunction() {
   // body of function
 }
 
-function addNumbers(num1, num2, num3, num4) {
-  num1 + num2 + num3 + num4
+function addNumbers(num1, num2, num3, num4)
+{
+  var sum = num1 + num2 + num3 + num4;
+  return("Sum is " + `${sum}`);
+  //Or
+  //return num1 + num2 + num3 + num4;
 }
 
-
-addNumbers()
+addNumbers(5,10,15,20);
 
