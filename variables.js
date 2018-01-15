@@ -5,7 +5,7 @@ var personality = "awesome"
 console.log(personality)
 //
 
-personality = "fabulous";
+personality = "lovely";
 console.log(personality);
 
 // Your Turn!
