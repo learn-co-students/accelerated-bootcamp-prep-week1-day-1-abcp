@@ -4,8 +4,8 @@ function setSpeciesVariable() {
 
 function dogInfo(){
   name = "Fido";
-  console.log("Species is " + species);
-  console.log("Name is " + name);
+  console.log("Species is " + species); // error
+  console.log("Name is " + name); // "Name is Fido"
 }
 
 setSpeciesVariable();
