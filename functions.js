@@ -4,15 +4,12 @@ function tellJoke() {
 
 tellJoke();
 
-
 function NameofFunction() {
   // body of function
 }
 
 function addNumbers(num1, num2, num3, num4) {
-  num1 + num2 + num3 + num4
+  return num1 + num2 + num3 + num4
 }
 
-
 addNumbers()
-
