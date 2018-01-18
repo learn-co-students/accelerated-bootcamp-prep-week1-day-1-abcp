@@ -20,7 +20,7 @@ Data types in JS include:
 We'll learn much more about each data type later on. For now, we should understand the following about the first three data type:
 
 * Number: Exactly what you think it is. Can be written with or without decimal points.
-* String: Text characters encolsed in single or double quotes.
+* String: Text characters enclosed in single or double quotes.
 * Boolean: The values `true` or `false`.
 
 Why is this important? Well, different types of data will be treated differently by JavaScript. The type of data that you are manipulating or operating on comes with certain rules that dictate what you can do with that data. In order to see these rules in action, we first have to understand the concept of declaring and assigning variables.
