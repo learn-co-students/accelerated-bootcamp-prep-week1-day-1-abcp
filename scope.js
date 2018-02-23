@@ -8,8 +8,8 @@ function dogInfo(){
   console.log("Name is " + name);
 }
 
-setSpeciesVariable();
-dogInfo();
+setSpeciesVariable(); //undefined
+dogInfo(); //error species is not defined
 
 function setSpeciesVariable() {
   species = "cat"
@@ -23,6 +23,5 @@ function catInfo() {
   console.log("Mood is " + mood)
 }
 
-setSpeciesVariable();
-catInfo();
-
+setSpeciesVariable(); //undefined
+catInfo(); // species is cat, name is felix, mood is sleepy
