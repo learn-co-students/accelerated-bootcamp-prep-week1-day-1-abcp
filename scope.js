@@ -12,7 +12,7 @@ setSpeciesVariable();
 dogInfo();
 
 function setSpeciesVariable() {
-  species = "Bird"
+  species = "cat"
 }
 
 function catInfo() {
